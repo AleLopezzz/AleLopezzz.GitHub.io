@@ -8,13 +8,13 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: #ffffff;
+    background: #;
     color: #cc0cc2;
 }
 #header{
     width: 100%;
     height: 100vh;
-    background: #ffffff;
+    background: #020202;
     background-size: cover;
 }
 .container{
