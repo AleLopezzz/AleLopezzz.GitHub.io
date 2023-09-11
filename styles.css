@@ -235,7 +235,7 @@ nav ul li a:hover::after{
     padding: 14px 50px;
     border-radius: 6%;
     text-decoration: none;
-    color: #ad1616;
+    color: #cc0cc2;
     transition: background 0.5s;
 }
 .btn:hover{
@@ -260,7 +260,7 @@ nav ul li a:hover::after{
     text-decoration: none;
     font-size: 30px;
     margin-right: 15px;
-    color: #ababab;
+    color: #002200;
     display: inline-block;
     transition: transform 0.5s;
 }
